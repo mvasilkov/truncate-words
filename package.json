@@ -1,0 +1,15 @@
+{
+  "name": "truncate-words",
+  "version": "1.0.0",
+  "description": "Truncates a string after a certain number of words.",
+  "main": "truncatewords.js",
+  "repository": "git@github.com:mvasilkov/truncate-words.git",
+  "author": "Mark Vasilkov (https://github.com/mvasilkov)",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "1.0.0-beta.4"
+  }
+}
